@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Precious Uzuegbu
 
-<!--
-**PRECIOUSUZUEGBU/PRECIOUSUZUEGBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```markdown
+**About Me**
+As data analyst who loves diving into numbers to uncover their stories. I got into this field because I enjoy finding patterns and insights that help people make smarter choices. I'm all about turning complicated data into useful information that teams can act on.
+
+## Skills
+
+- Excel
+- Google Sheets
+- Power BI
+- SQL
+- Tableau
+
+## Contact Me
+
+Feel free to reach out to me via [email](Chiomaprecous1008@gmail.com) for collaboration or inquiries.
